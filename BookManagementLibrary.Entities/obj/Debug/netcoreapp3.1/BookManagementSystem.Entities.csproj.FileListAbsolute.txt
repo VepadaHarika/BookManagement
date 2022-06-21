@@ -1,0 +1,10 @@
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\bin\Debug\netcoreapp3.1\BookManagementSystem.Entities.deps.json
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\bin\Debug\netcoreapp3.1\BookManagementSystem.Entities.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\bin\Debug\netcoreapp3.1\BookManagementSystem.Entities.pdb
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\obj\Debug\netcoreapp3.1\BookManagementSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\obj\Debug\netcoreapp3.1\BookManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\obj\Debug\netcoreapp3.1\BookManagementSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\obj\Debug\netcoreapp3.1\BookManagementSystem.Entities.AssemblyInfo.cs
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\obj\Debug\netcoreapp3.1\BookManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\obj\Debug\netcoreapp3.1\BookManagementSystem.Entities.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.Entities\obj\Debug\netcoreapp3.1\BookManagementSystem.Entities.pdb

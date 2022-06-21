@@ -1,0 +1,10 @@
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\bin\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.deps.json
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\bin\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\bin\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.pdb
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.AssemblyInfo.cs
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.DataAccessLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.DataAccessLayer.pdb

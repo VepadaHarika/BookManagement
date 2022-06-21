@@ -1,0 +1,10 @@
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\bin\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.deps.json
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\bin\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\bin\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.pdb
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementLibrary.BusinessLogicLayer\obj\Debug\netcoreapp3.1\BookManagementSystem.BusinessLogicLayer.pdb

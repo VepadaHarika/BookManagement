@@ -1,0 +1,10 @@
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\bin\Debug\netcoreapp3.1\BookManagementSystem.CustomException.deps.json
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\bin\Debug\netcoreapp3.1\BookManagementSystem.CustomException.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\bin\Debug\netcoreapp3.1\BookManagementSystem.CustomException.pdb
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\obj\Debug\netcoreapp3.1\BookManagementSystem.CustomException.csproj.AssemblyReference.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\obj\Debug\netcoreapp3.1\BookManagementSystem.CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\obj\Debug\netcoreapp3.1\BookManagementSystem.CustomException.AssemblyInfoInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\obj\Debug\netcoreapp3.1\BookManagementSystem.CustomException.AssemblyInfo.cs
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\obj\Debug\netcoreapp3.1\BookManagementSystem.CustomException.csproj.CoreCompileInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\obj\Debug\netcoreapp3.1\BookManagementSystem.CustomException.dll
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookManagementSystem.CustomException\obj\Debug\netcoreapp3.1\BookManagementSystem.CustomException.pdb

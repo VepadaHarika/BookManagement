@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookManagementLibrary.Entities\BookManagementLibrary.Entities.csproj" />
+    <ProjectReference Include="..\BookManagementSystem.CustomException\BookManagementSystem.CustomException.csproj" />
+  </ItemGroup>
+
+</Project>

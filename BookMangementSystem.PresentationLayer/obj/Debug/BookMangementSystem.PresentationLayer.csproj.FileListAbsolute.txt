@@ -1,0 +1,7 @@
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookMangementSystem.PresentationLayer\bin\Debug\BookMangementSystem.PresentationLayer.exe.config
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookMangementSystem.PresentationLayer\bin\Debug\BookMangementSystem.PresentationLayer.exe
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookMangementSystem.PresentationLayer\bin\Debug\BookMangementSystem.PresentationLayer.pdb
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookMangementSystem.PresentationLayer\obj\Debug\BookMangementSystem.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookMangementSystem.PresentationLayer\obj\Debug\BookMangementSystem.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookMangementSystem.PresentationLayer\obj\Debug\BookMangementSystem.PresentationLayer.exe
+C:\Users\mindc1mard08\source\repos\BookManagementSystem\BookMangementSystem.PresentationLayer\obj\Debug\BookMangementSystem.PresentationLayer.pdb
